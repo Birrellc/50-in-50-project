@@ -8,7 +8,7 @@ nav {
     top: 10px;
 }
 
-body {
+.container {
   font-family: 'Muli', sans-serif;
   display: flex;
   align-items: center;
@@ -16,9 +16,6 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-}
-
-.container {
   display: flex;
   width: 90vw;
 }
